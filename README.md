@@ -36,7 +36,6 @@ tech power wecatch
 #### dev environment
 
 - virtualbox
-- jquery
 - vagrant
 - ubuntu 12.04
 - ubuntu 14.04
@@ -52,9 +51,21 @@ tech power wecatch
 - tornado
 - flask
 
+
 #### css framework
 
 - pure
+
+
+#### js framework 
+
+- jquery
+
+
+#### js lib
+
+- pen.io
+
 
 #### package manage
 
