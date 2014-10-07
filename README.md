@@ -57,10 +57,10 @@ tech power wecatch
 - pure
 
 
-#### js framework 
+#### js framework or lib 
 
-- jquery
-
+- jquery  
+- AngularJs
 
 #### js lib
 
